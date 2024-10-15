@@ -1,0 +1,6 @@
+﻿  question3.cpp
+D:\A_resume\Question\Question3\question3.cpp(17,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\A_resume\Question\Question3\question3.cpp(22,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\A_resume\Question\Question3\question3.cpp(31,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\A_resume\Question\Question3\question3.cpp(38,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Question3.vcxproj -> D:\A_resume\Question\Question3\x64\Debug\Question3.exe

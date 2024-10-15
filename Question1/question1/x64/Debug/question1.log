@@ -1,0 +1,4 @@
+﻿  Question1.cpp
+D:\A_resume\Question\Question1_Sort\question1\Question1.cpp(45,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\A_resume\Question\Question1_Sort\question1\Question1.cpp(47,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  question1.vcxproj -> D:\A_resume\Question\Question1_Sort\question1\x64\Debug\question1.exe

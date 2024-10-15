@@ -1,0 +1,3 @@
+﻿  question4.cpp
+D:\A_resume\Question\Question4\question4.cpp(32,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Question4.vcxproj -> D:\A_resume\Question\Question4\x64\Debug\Question4.exe

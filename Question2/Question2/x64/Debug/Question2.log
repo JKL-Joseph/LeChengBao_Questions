@@ -1,0 +1,4 @@
+﻿  question2.cpp
+D:\A_resume\Question\Question2\question2.cpp(16,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\A_resume\Question\Question2\question2.cpp(18,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Question2.vcxproj -> D:\A_resume\Question\Question2\x64\Debug\Question2.exe

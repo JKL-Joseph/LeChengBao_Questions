@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_resume\\Question\\Question2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B52409D-AD85-4FEA-8488-90BFDCF59AF7}|Question2.vcxproj|D:\\A_resume\\Question\\Question2\\question2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B52409D-AD85-4FEA-8488-90BFDCF59AF7}|Question2.vcxproj|solutionrelative:question2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question2.cpp",
+              "DocumentMoniker": "D:\\A_resume\\Question\\Question2\\question2.cpp",
+              "RelativeDocumentMoniker": "question2.cpp",
+              "ToolTip": "D:\\A_resume\\Question\\Question2\\question2.cpp",
+              "RelativeToolTip": "question2.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T07:43:50.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
